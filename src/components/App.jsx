@@ -44,6 +44,7 @@ export class App extends Component {
                     backgroundColor: 'LightSteelBlue',
                 }}
             >
+                hello
                 <h1>Espresso</h1>
                 <Section
                     title="Please leave feedback"

@@ -1,0 +1,16 @@
+.statsList {
+    padding: 0;
+}
+
+.statsListItem {
+    margin: 10px 0;
+}
+
+.statsListItem::first-letter {
+    text-transform: uppercase;
+}
+
+.total,
+.good {
+    font-weight: bold;
+}
